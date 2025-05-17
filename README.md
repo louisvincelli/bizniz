@@ -6,7 +6,7 @@
 
 ## <a name="deployedlink">Deployed App Link</a>
 
-**Deployed App:** https://myportfolio-louis-vincellis-projects.vercel.app/
+**Deployed App:** https://bizniz-gray.vercel.app/
 
 ## <a name="table">Table of Contents</a>
 
